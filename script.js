@@ -106,7 +106,7 @@ tabs.forEach(tab => {
 const KAIRUS_WHATSAPP = '5585998333612';
 // Paste the URL from your Google Apps Script deployment (see docs/GOOGLE_SHEETS_SETUP.md).
 // Leave empty to skip sheet logging and go straight to WhatsApp.
-const SHEET_ENDPOINT = '';
+const SHEET_ENDPOINT = 'https://script.google.com/macros/s/AKfycbxH8AxkVY_7SUa87zKM6x11hRY_2imDSqSaayrm_0zGeBfu8r8_aYzxtnmtA5i2jNDE/exec';
 
 const contactForm = document.getElementById('contactForm');
 const formNote = document.getElementById('formNote');
