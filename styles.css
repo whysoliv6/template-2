@@ -62,7 +62,7 @@ button{ font-family:inherit; cursor:pointer; }
 
 .grain{
   position:fixed; inset:0; pointer-events:none; z-index:9999;
-  background-image:url('framerusercontent.com/images/hiGYz6grmhAHSeZuNKHEuchTGTw_scale-down-to=1024.png');
+  background-image:url('assets/decor/grain.jpg');
   background-size:300px; opacity:0.035; mix-blend-mode:multiply;
 }
 
