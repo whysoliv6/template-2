@@ -140,7 +140,7 @@ button{ font-family:inherit; cursor:pointer; }
 
 /* Wall */
 .wall{ margin:50px auto; max-width:1400px; padding:0 16px; }
-.wall img{ border-radius:var(--radius-lg); width:100%; height:auto; }
+.wall img, .wall video{ border-radius:var(--radius-lg); width:100%; height:auto; display:block; }
 
 /* Ribbons */
 .ribbons{ position:relative; padding:36px 0; overflow:hidden; }
